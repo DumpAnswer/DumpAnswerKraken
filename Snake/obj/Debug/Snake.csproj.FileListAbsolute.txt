@@ -1,0 +1,7 @@
+C:\Users\kalek\Desktop\DumpAnswerKraken\Snake\bin\Debug\Snake.exe.config
+C:\Users\kalek\Desktop\DumpAnswerKraken\Snake\bin\Debug\Snake.exe
+C:\Users\kalek\Desktop\DumpAnswerKraken\Snake\bin\Debug\Snake.pdb
+C:\Users\kalek\Desktop\DumpAnswerKraken\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\kalek\Desktop\DumpAnswerKraken\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\kalek\Desktop\DumpAnswerKraken\Snake\obj\Debug\Snake.exe
+C:\Users\kalek\Desktop\DumpAnswerKraken\Snake\obj\Debug\Snake.pdb
